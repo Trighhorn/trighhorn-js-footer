@@ -1,6 +1,6 @@
 {
   "name": "trighhorn-js-footer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This module generates a dynamic footer for js applications wit up to date year and name.",
   "main": "index.js",
   "scripts": {
